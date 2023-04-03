@@ -1,3 +1,4 @@
+// This small program allows you to login and create a registered account
 #include <iostream>
 #include <fstream>
 #include <string>
